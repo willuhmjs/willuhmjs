@@ -1,7 +1,5 @@
 # Hello! I'm Will! 👋🏻 👨🏼‍💻
 
-<img src="header.png" alt="github header image"/>
-
 Welcome to my page. My active projects are pinned, but I maintain all of my repositories.
 
 ## Analytics
